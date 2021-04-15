@@ -3,7 +3,7 @@
 66C:\xampp\htdocs\jsbox\JSForkify\node_modules\querystring\decode.js121436361000000000 0
 73C:\xampp\htdocs\jsbox\JSForkify\node_modules\uri-js\dist\esnext\util.d.ts121436361000000000 0
 79C:\xampp\htdocs\jsbox\JSForkify\node_modules\core-js\es\symbol\to-string-tag.js121436361000000000 0
-49C:\xampp\htdocs\jsbox\JSForkify\package-lock.json132629118242653036 0
+49C:\xampp\htdocs\jsbox\JSForkify\package-lock.json132629205204963102 0
 69C:\xampp\htdocs\jsbox\JSForkify\node_modules\lodash\_memoizeCapped.js121436361000000000 0
 71C:\xampp\htdocs\jsbox\JSForkify\node_modules\svgo\plugins\reusePaths.js121436361000000000 0
 101C:\xampp\htdocs\jsbox\JSForkify\node_modules\csso\node_modules\css-tree\lib\definition-syntax\walk.js121436361000000000 0
@@ -16,7 +16,7 @@
 59C:\xampp\htdocs\jsbox\JSForkify\node_modules\is-binary-path132629118222564518 1
 55C:\xampp\htdocs\jsbox\JSForkify\node_modules\buffer-xor132629116375659759 1
 83C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-normalize-unicode\CHANGELOG.md121436361000000000 0
-36C:\xampp\htdocs\jsbox\JSForkify\dist132629186627613737 1
+36C:\xampp\htdocs\jsbox\JSForkify\dist132629205204613281 1
 123C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-convert-values\node_modules\chalk\node_modules\supports-color\index.js131792129460000000 0
 87C:\xampp\htdocs\jsbox\JSForkify\node_modules\es-abstract\2020\FromPropertyDescriptor.js121436361000000000 0
 120C:\xampp\htdocs\jsbox\JSForkify\node_modules\hash-base\node_modules\readable-stream\lib\internal\streams\from-browser.js121436361000000000 0
@@ -146,7 +146,7 @@
 102C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-discard-empty\node_modules\postcss\lib\comment.js121436361000000000 0
 63C:\xampp\htdocs\jsbox\JSForkify\node_modules\convert-source-map132629116338980754 1
 109C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-normalize-repeat-style\node_modules\postcss\package.json121436361000000000 0
-44C:\xampp\htdocs\jsbox\JSForkify\node_modules132629118231979149 1
+44C:\xampp\htdocs\jsbox\JSForkify\node_modules132629202043692174 1
 110C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-normalize-unicode\node_modules\postcss\lib\lazy-result.js121436361000000000 0
 85C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-svgo\node_modules\source-map\lib132629116466337867 1
 99C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-normalize-url\node_modules\postcss\lib\list.js121436361000000000 0
@@ -222,7 +222,7 @@
 64C:\xampp\htdocs\jsbox\JSForkify\node_modules\create-hash\test.js121436361000000000 0
 72C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-normalize-positions132629116309577598 1
 82C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-modules\node_modules\has-flag132629116333254014 1
-44C:\xampp\htdocs\jsbox\JSForkify\package.json132629118242772948 0
+44C:\xampp\htdocs\jsbox\JSForkify\package.json132629205205202966 0
 79C:\xampp\htdocs\jsbox\JSForkify\node_modules\uncss\node_modules\source-map\dist132629116548181061 1
 50C:\xampp\htdocs\jsbox\JSForkify\src\sass\main.scss132531205823619051 0
 77C:\xampp\htdocs\jsbox\JSForkify\node_modules\request-promise-native\lib\rp.js121436361000000000 0
@@ -266,7 +266,7 @@
 103C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-discard-empty\node_modules\source-map\CHANGELOG.md131369414900000000 0
 58C:\xampp\htdocs\jsbox\JSForkify\node_modules\forever-agent132629116321070988 1
 90C:\xampp\htdocs\jsbox\JSForkify\node_modules\cssnano\node_modules\postcss\lib\stringify.js121436361000000000 0
-38C:\xampp\htdocs\jsbox\JSForkify\src\js132629101095583699 1
+38C:\xampp\htdocs\jsbox\JSForkify\src\js132629205205212974 1
 60C:\xampp\htdocs\jsbox\JSForkify\node_modules\iferr\README.md132629116394748831 0
 84C:\xampp\htdocs\jsbox\JSForkify\node_modules\core-js\features\typed-array\reverse.js121436361000000000 0
 102C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-minify-params\node_modules\postcss\docs\syntax.md121436361000000000 0
@@ -411,7 +411,7 @@
 74C:\xampp\htdocs\jsbox\JSForkify\node_modules\core-js\es\typed-array\map.js121436361000000000 0
 66C:\xampp\htdocs\jsbox\JSForkify\node_modules\lodash\fp\endsWith.js121436361000000000 0
 83C:\xampp\htdocs\jsbox\JSForkify\node_modules\svgo\lib\svgo\css-style-declaration.js121436361000000000 0
-52C:\xampp\htdocs\jsbox\JSForkify\src\js\controller.js132629186623905850 0
+52C:\xampp\htdocs\jsbox\JSForkify\src\js\controller.js132629205205222944 0
 66C:\xampp\htdocs\jsbox\JSForkify\node_modules\lodash\_freeGlobal.js121436361000000000 0
 57C:\xampp\htdocs\jsbox\JSForkify\node_modules\astral-regex132629116341669228 1
 54C:\xampp\htdocs\jsbox\JSForkify\node_modules\hsl-regex132629116361188033 1
@@ -458,7 +458,7 @@
 67C:\xampp\htdocs\jsbox\JSForkify\node_modules\css-declaration-sorter132629116387582932 1
 78C:\xampp\htdocs\jsbox\JSForkify\node_modules\snapdragon\node_modules\debug\src132629116444500357 1
 71C:\xampp\htdocs\jsbox\JSForkify\node_modules\js-yaml\lib\js-yaml\schema132629116545682452 1
-63C:\xampp\htdocs\jsbox\JSForkify\node_modules\.package-lock.json132629118246031094 0
+63C:\xampp\htdocs\jsbox\JSForkify\node_modules\.package-lock.json132629202049279015 0
 62C:\xampp\htdocs\jsbox\JSForkify\node_modules\glob\package.json121436361000000000 0
 89C:\xampp\htdocs\jsbox\JSForkify\node_modules\caniuse-lite\data\features\feature-policy.js121436361000000000 0
 75C:\xampp\htdocs\jsbox\JSForkify\node_modules\w3c-hr-time\lib\performance.js132279277550000000 0
@@ -1491,7 +1491,7 @@
 103C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-normalize-timing-functions\node_modules\color-name132629116362787123 1
 67C:\xampp\htdocs\jsbox\JSForkify\node_modules\is-typedarray\index.js130762982010000000 0
 61C:\xampp\htdocs\jsbox\JSForkify\node_modules\srcset\readme.md121436361000000000 0
-55C:\xampp\htdocs\jsbox\JSForkify\dist\index.1206e35b.css132629186627223954 0
+55C:\xampp\htdocs\jsbox\JSForkify\dist\index.1206e35b.css132629204173702057 0
 59C:\xampp\htdocs\jsbox\JSForkify\node_modules\dom-serializer132629116378897898 1
 55C:\xampp\htdocs\jsbox\JSForkify\node_modules\fill-range132629116323289729 1
 67C:\xampp\htdocs\jsbox\JSForkify\node_modules\ajv\lib\dotjs\items.js121436361000000000 0
@@ -8895,7 +8895,7 @@
 74C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss\lib\previous-map.d.ts121436361000000000 0
 114C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-ordered-values\node_modules\postcss\docs\guidelines\plugin.md121436361000000000 0
 89C:\xampp\htdocs\jsbox\JSForkify\node_modules\highlight.js\styles\atelier-forest-light.css121436361000000000 0
-58C:\xampp\htdocs\jsbox\JSForkify\dist\index.250b04c7.js.map132629186627393859 0
+58C:\xampp\htdocs\jsbox\JSForkify\dist\index.250b04c7.js.map132629205204623277 0
 114C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-ordered-values\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
 71C:\xampp\htdocs\jsbox\JSForkify\node_modules\node-addon-api\doc\name.md121436361000000000 0
 97C:\xampp\htdocs\jsbox\JSForkify\node_modules\postcss-ordered-values\node_modules\has-flag\license131408182550000000 0
@@ -21933,10 +21933,10 @@
 59C:\xampp\htdocs\jsbox\JSForkify\node_modules\.bin\uncss.cmd132629116789462951 0
 59C:\xampp\htdocs\jsbox\JSForkify\node_modules\.bin\uncss.ps1132629116789462951 0
 59C:\xampp\htdocs\jsbox\JSForkify\node_modules\.bin\which.ps1132629116789482945 0
-57C:\xampp\htdocs\jsbox\JSForkify\dist\favicon.80934ffe.png132629186626204547 0
-55C:\xampp\htdocs\jsbox\JSForkify\dist\icons.c4b52749.svg132629186626214538 0
-55C:\xampp\htdocs\jsbox\JSForkify\dist\icons.d4a14980.svg132629186626384442 0
-59C:\xampp\htdocs\jsbox\JSForkify\dist\index.1206e35b.css.map132629186627383863 0
-54C:\xampp\htdocs\jsbox\JSForkify\dist\index.250b04c7.js132629186627233949 0
-47C:\xampp\htdocs\jsbox\JSForkify\dist\index.html132629186627223954 0
-54C:\xampp\htdocs\jsbox\JSForkify\dist\logo.5d271741.png132629186626214538 0
+57C:\xampp\htdocs\jsbox\JSForkify\dist\favicon.80934ffe.png132629204169044739 0
+55C:\xampp\htdocs\jsbox\JSForkify\dist\icons.c4b52749.svg132629204169034716 0
+55C:\xampp\htdocs\jsbox\JSForkify\dist\icons.d4a14980.svg132629205204453375 0
+59C:\xampp\htdocs\jsbox\JSForkify\dist\index.1206e35b.css.map132629204174341689 0
+54C:\xampp\htdocs\jsbox\JSForkify\dist\index.250b04c7.js132629205204573309 0
+47C:\xampp\htdocs\jsbox\JSForkify\dist\index.html132629204173702057 0
+54C:\xampp\htdocs\jsbox\JSForkify\dist\logo.5d271741.png132629204169084717 0
