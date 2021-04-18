@@ -1,6 +1,7 @@
 import 'core-js/stable'
 import 'regenerator-runtime/runtime'
 import * as model from './model'
+import paginationView from './views/paginationView'
 import recipeView from './views/recipeView'
 import resultsView from './views/resultsView'
 import searchView from './views/searchView'
@@ -40,15 +41,28 @@ const controlSearchResults = async function (query) {
     await model.loadSearchResults(query)
 
     // 3. Render results
-    resultsView.render(model.state.search.results)
+    resultsView.render(model.getSearchResultsPage())
+
+    // 4. Render initial pagination buttons
+    paginationView.render(model.state.search)
+
   } catch (error) {
     console.log(error)
   }
 }
 
+const controlPagination = function (goToPage) {
+  // 3. Render new results
+  resultsView.render(model.getSearchResultsPage(goToPage))
+
+  // 4. Render new pagination buttons
+  paginationView.render(model.state.search)
+}
+
 const init = function () {
   recipeView.addHandlerRender(controlRecipes)
   searchView.addHandlerSearch(controlSearchResults)
+  paginationView.addHandlerClick(controlPagination)
 }
 
 init()
