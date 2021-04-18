@@ -1,5 +1,4 @@
 import View from './View'
-
 class ResultsView extends View {
     _parentElement = document.querySelector('.results')
     _errorMessage = 'No recipes were found for your query. Please try again.'
