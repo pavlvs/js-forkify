@@ -1,7 +1,7 @@
 import 'core-js/stable'
 import 'regenerator-runtime/runtime'
 import * as model from './model'
-import MODAL_CLOSE_SECONDS from './config'
+import { MODAL_CLOSE_SECONDS } from './config'
 import bookmarksView from './views/bookmarksView'
 import paginationView from './views/paginationView'
 import recipeView from './views/recipeView'
